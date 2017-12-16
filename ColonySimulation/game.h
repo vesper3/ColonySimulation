@@ -17,7 +17,7 @@ protected:
 	void MainMenu();
 	void OptionsMenu();
 
-	//may create own class to save and load games
+	//may create own class to save and load games 
 	void NewGame();
 	void LoadGame();
 	//may create own class to save and load games
